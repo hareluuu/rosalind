@@ -2,7 +2,6 @@ Rosalind project solutions
 ========
 
 Solutions for the Rosalind project written by me in Python 3 :speak_no_evil:
-========
 
 Rosalind Project website: http://rosalind.info/about/
 My Rosalind profile: http://rosalind.info/users/harel/
